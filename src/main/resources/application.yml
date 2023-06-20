@@ -1,0 +1,8 @@
+##集成钉钉服务
+#ding:
+#  robot:
+#    # webhook
+#    webhook: https://oapi.dingtalk.com/robot/send?access_token=78602734ce542105a3bd0367d773dfba1ad10904cff8878e3ae5b57acf0c0d81
+#    # 加签
+#    key: SECcb16014fe6110240fc5d50cae417b4ed3bc53e859e08d532861fc74b19f8e631
+#
